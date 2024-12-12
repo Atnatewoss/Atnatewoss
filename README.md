@@ -2,7 +2,7 @@
 
 **`Software Engineer (Web Developer)`**
 
-I'm an indie front-end developer building my version of the digital world, one line of code at a time. My journey has been shaped by diverse interests, and now I'm passionate about creating meaningful web experiences.
+I'm an indie front-end developer building my version of the digital world, one line of code at a time.
 
 ---
 
