@@ -2,7 +2,7 @@
 
 **`Software Engineer (Web Developer)`**
 
-I'm an indie front-end developer building my version of the digital world, one line of code at a time.
+I'm a Junior Full-Stack developer building my version of the digital world, one line of code at a time.
 
 ---
 
