@@ -31,7 +31,7 @@ I'm an experienced web developer with a passion for crafting unique digital expe
 
 ### 📊 Stats
 
-![Atnatewoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=atnatewoss&show_icons=true&theme=gruvbox&cache_seconds=0)
+![GitHub Contribution Graph](https://ghchart.rshah.org/atnatewoss)
 
 #
 
