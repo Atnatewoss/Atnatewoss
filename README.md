@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09b44240-54f7-4651-a21e-1d1067a47b9e" /># Atnatewos Hailealem 
+# Atnatewos Hailealem 
 
 **`Software Engineer (Web Developer)`**
 
