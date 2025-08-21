@@ -1,8 +1,8 @@
-# Atnatewos Hailealem 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09b44240-54f7-4651-a21e-1d1067a47b9e" /># Atnatewos Hailealem 
 
 **`Software Engineer (Web Developer)`**
 
-I'm a Junior Full-Stack developer focused on backend development, web technologies, and how AI fits into everyday life.
+I'm an experienced web developer with a passion for crafting unique digital experiences.
 
 ---
 
