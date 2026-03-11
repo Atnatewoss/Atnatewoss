@@ -41,16 +41,16 @@ I'm a passionate developer crafting unique digital experiences at the intersecti
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atnatewoss&color=6366f1&style=flat-square" alt="Profile Views">
+</div>
+
+---
+
 ## Connect
 
 Open to collaborations and interesting project ideas.
 
 **Email:** [atnatewoshailealemwk@gmail.com](mailto:atnatewoshailealemwk@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atnatewoss&color=6366f1&style=flat-square" alt="Profile Views">
-</div>
 
 ---
