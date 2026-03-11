@@ -1,57 +1,90 @@
-# Atnatewos Hailealem 
+# 👋 Hey, I'm Atnatewoss Hailealem
 
-**`Software Engineer (Web Developer)`**
-
-I'm an experienced web developer with a passion for crafting unique digital experiences.
+**Software Engineer | Full-Stack Developer | AI Enthusiast**
 
 ---
 
-### 🧰 Languages and Tools
+<div align="center">
 
-<!-- Version Control -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+![Profile Views](https://komarev.com/ghpvc/?username=Atnatewoss&color=6366f1&style=flat-square)
 
-<!-- Front-End -->
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</div>
 
-<!-- Back-End -->
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+## 🚀 About Me
 
-<!-- DataBase -->
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostGreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+I'm a passionate developer crafting unique digital experiences at the intersection of web technologies and AI. I love building tools that solve real problems and exploring the frontiers of machine learning.
 
-<!-- Other Languages -->
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+---
 
-<!-- DevOps -->
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+## 🛠️ Tech Stack
 
-<!-- Other Tools -->
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-<br />
+### Languages & Frameworks
 
-#
+**Frontend:**
+<br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
-### 📊 Stats
+**Backend:**
+<br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
-![Atnatewoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=atnatewoss&show_icons=true&theme=gruvbox)
+**Databases:**
+<br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-#
+**DevOps & Tools:**
+<br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 
-### Let's Connect!
-  If you think we'd make a great team or if you'd just like to chat about projects, feel free to reach out!
+---
 
-  📧 [atnatewoshailealemwk@gmail.com](mailto:atnatewoshailealemwk@gmail.com)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Atnatewoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atnatewoss&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atnatewoss&layout=compact&theme=gruvbox&hide_border=true&border_radius=10)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🤖 ScoutHire](https://github.com/Atnatewoss/ScoutHire) | Multi-agent AI system for automated job scouting & hiring | TypeScript |
+| [⚽ GunnerGPT](https://github.com/Atnatewoss/GunnerGPT) | RAG system for Arsenal FC insights | TypeScript |
+| [🧠 Hopfield Networks](https://github.com/Atnatewoss/Hopfield-networks) | Interactive neural network visualization | JavaScript |
+| [🧬 GGGP](https://github.com/Atnatewoss/GGGP) | Grammar-Guided Genetic Programming | Python |
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting collaborations, project ideas, or just a good tech chat.
+
+📧 **Email:** [atnatewoshailealemwk@gmail.com](mailto:atnatewoshailealemwk@gmail.com)
+
+---
+
+<div align="center">
+
+*⭐ Star some repositories if you find them interesting!*
+
+</div>
