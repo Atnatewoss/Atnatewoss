@@ -34,10 +34,10 @@ I'm a Fullstack Developer crafting unique digital experiences at the intersectio
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [ScoutHire](https://github.com/Atnatewoss/ScoutHire) | Multi-agent AI system for automated job scouting & hiring | TypeScript |
-| [GunnerGPT](https://github.com/Atnatewoss/GunnerGPT) | RAG system for Arsenal FC insights | TypeScript |
-| [Hopfield Networks](https://github.com/Atnatewoss/Hopfield-networks) | Interactive neural network visualization | JavaScript |
-| [GetGit](https://github.com/Atnatewoss/GetGit) | GitHub profile explorer with seamless interface | CSS |
+| [ScoutHire](https://github.com/Atnatewoss/ScoutHire) | Multi-agent AI system for automated job scouting & hiring | TypeScript + Python |
+| [GunnerGPT](https://github.com/Atnatewoss/GunnerGPT) | RAG system for Arsenal FC insights | TypeScript + Python |
+| [Hopfield Networks](https://github.com/Atnatewoss/Hopfield-networks) | Interactive neural network visualization | JavaScript + Python |
+| [GetGit](https://github.com/Atnatewoss/GetGit) | GitHub profile explorer with seamless interface | JavaScript |
 
 ---
 
