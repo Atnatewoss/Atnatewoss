@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate developer crafting unique digital experiences at the intersection of web technologies and AI. I love building tools that solve real problems and exploring the frontiers of machine learning.
+I'm a Fullstack Developer crafting unique digital experiences at the intersection of web technologies and AI. I love building tools that solve real problems and exploring the frontiers of machine learning. Currently diving into scalable backend architectures and AI/ML.
 
 ---
 
