@@ -1,4 +1,4 @@
-# Hi, I'm Atnatewos Hailealem
+# 👋 Hi, I'm Atnatewos Hailealem
 
 **Software Engineer | Full-Stack Developer | AI Enthusiast**
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a Fullstack Developer crafting unique digital experiences at the intersection of web technologies and AI. I love building tools that solve real problems and currently exploring the frontiers of scalable backend architectures and AI/ML.
+I'm a Fullstack Developer crafting unique digital experiences at the intersection of web technologies and AI. I love building tools that solve real problems and exploring the frontiers of scalable backend architectures and AI/ML.
 
 ---
 
