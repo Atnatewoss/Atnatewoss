@@ -62,21 +62,6 @@ I'm a passionate developer crafting unique digital experiences at the intersecti
 
 ---
 
-## Recommended Repos to Make Public
-
-Based on your private repos, these would be great public showcases:
-
-| Repo | Why Make Public |
-|------|-----------------|
-| **PublicThoughts** | Already has 2 stars, impressive TypeScript project |
-| **fastapi-server-kit** | 1 star already, useful FastAPI boilerplate |
-| **air-desk** | 1 star, hand gesture control (computer vision) - great demo |
-| **neural-networks-from-scratch** | Educational, recently created, good for ML portfolio |
-| **EPrep** | Full app with domain (eprep.et), real-world impact |
-| **HomeMed** | Healthcare app with Vercel deploy, socially relevant |
-
----
-
 ## Connect
 
 Open to collaborations and interesting project ideas.
