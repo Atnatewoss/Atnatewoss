@@ -1,6 +1,6 @@
 # Hi, I'm Atnatewos
 
-A Software Engineer crafting unique digital experiences at the intersection of web technologies and AI. I love building tools that solve real problems, from small tools to big ones and exploring the frontiers of scalable backend architectures and AI/ML.
+A Software Engineer based in Ethiopia, crafting unique digital experiences at the intersection of web technologies and AI. I love building tools that solve real problems, from small tools to big ones and exploring the frontiers of scalable backend architectures and AI/ML.
 
 ## What I Work With
 
