@@ -5,4 +5,4 @@ I'm a Full-Stack Developer turned AI/ML Engineer. I've been programming in the T
 ### My recent projects:
 (ones I'm proud of)
 - [pyRPC](https://pyrpc.com) - A [tRPC](https://trpc.io)-like type-safe framework for Python backends and TypeScript frontends
-- [tspy](https://tspy.vercel.app) - An experimental full-stack React meta-framework for building intelligent web apps
+- [BionicJS](https://bionicjs.vercel.app) - An experimental full-stack React meta-framework for building intelligent web apps
