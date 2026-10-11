@@ -1,12 +1,13 @@
-## Hey, I'm Atnatewos.
+![AI / ML Engineer](./assets/banner-a.jpg)
 
-I'm a Full-Stack Developer turned AI/ML Engineer. I've been programming in the TypeScript and Python ecosystem for the past 3 years and most of my work now evolves around ai/ml, full-stack systems and open source softwares.
+<p align="center">
+  I've been programming in the TypeScript and Python ecosystem for the past 3 years and most of my work now evolves around ai/ml, full-stack systems & open source softwares, where I train models from scratch, and ship systems people actually use.
+</p>
 
-### Recent Projects
+---
 
-- **[pyRPC](https://pyrpc.com)** - A [tRPC](https://trpc.io)-like type-safe framework for Python backends and TypeScript frontends.
+### Selected Work
 
-- **[BionicJS](https://bionicjs.vercel.app)** - An experimental full-stack React meta-framework for building intelligent web apps.
-
-- **[EPrep](https://eprep.et)** - A Comprehensive Exit-Exam preparation platform for CS-students. *(private)*
-
+- **[pyRPC](https://pyrpc.com)** - Type-safe framework for Python backends ↔ TypeScript frontends
+- **[BionicJS](https://bionicjs.vercel.app)** - Experimental full-stack React meta-framework for intelligent web apps
+- **[Angelo](https://github.com/Atnatewoss/angelo-ai)** - Decoder-only language model built entirely from scratch
